@@ -12,7 +12,7 @@ Here are the write-ups for the challenges I completed
   * [2Warm](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/2Warm) (Solved)
   * [what's a net cat?](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/what's%20a%20net%20cat%3F) (Solved)
   * [strings it](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/strings%20it) (Solved)
-  * [Bases] (Solved)
+  * [Bases](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/Bases) (Solved)
   * [First Grep] (Solved)
   * [Based] (Solved)
   * [plumbing] (Unsolved)
