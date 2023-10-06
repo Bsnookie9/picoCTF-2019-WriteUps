@@ -7,8 +7,8 @@ Here are the write-ups for the challenges I completed
 <details>
   <summary>General Skills (8/12)</summary>
 
-  * [Lets Warm Up](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Lets%20Warm%20Up) (Solved)
-  * [Warmed Up](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Warmed%20Up) (Solved)
+  * [Lets Warm Up](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/Lets%20Warm%20Up) (Solved)
+  * [Warmed Up](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/Warmed%20Up) (Solved)
   * [2Warm] (Solved)
   * [what's a net cat?] (Solved)
   * [strings it] (Solved)
