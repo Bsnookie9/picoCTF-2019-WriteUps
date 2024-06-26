@@ -17,7 +17,7 @@ Here are the write-ups for the challenges I completed
   * [Based](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/Based)
   * [plumbing](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/plumbing)
   * [mus1c] (Unsolved)
-  * [flag_shop] (Unsolved)
+  * [flag_shop](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/flag_shop)
   * [1_wanna_b3_a_r0ck5tar] (Unsolved)
     
 </details>
