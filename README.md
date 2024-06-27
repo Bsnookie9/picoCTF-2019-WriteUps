@@ -40,3 +40,29 @@ Here are the write-ups for the challenges I completed
   * [john_pollard]()
   * [b00tl3gRSA2]()
 </details>
+
+<details>
+  <summary>Forensics</summary>
+
+  * [like1000]()
+  * [What Lies Within]()
+  * [c0rrupt]()
+  * [extensions]()
+  * [WhitePages]()
+  * [Glory of the Garden]()
+  * [WebNet1]()
+  * [WebNet0]()
+  * [shark on wire 1]()
+  * [So Meta]()
+  * [shark on wire 2]()
+  * [Investigative Reversing 0]()
+  * [B1g_Mac]()
+  * [m00nwalk2]()
+  * [Investigative Reversing 1]()
+  * [m00nwalk]()
+  * [Investigative Reversing 2]()
+  * [Investigative Reversing 3]()
+  * [Investigative Reversing 4]()
+  * [investigation_encoded_1]()
+  * [investigation_encoded_2]()
+</details>
