@@ -5,7 +5,7 @@ Here are the write-ups for the challenges I completed
 
 # Challenges
 <details>
-  <summary>General Skills (8/12)</summary>
+  <summary>General Skills</summary>
 
   * [Lets Warm Up](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/Lets%20Warm%20Up)
   * [Warmed Up](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/Warmed%20Up)
@@ -19,5 +19,24 @@ Here are the write-ups for the challenges I completed
   * [mus1c](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/mus1c)
   * [flag_shop](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/flag_shop)
   * [1_wanna_b3_a_r0ck5tar](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/General%20Skills/1_wanna_b3_a_r0ck5tar)
-    
+</details>
+
+<details>
+  <summary>Cryptography</summary>
+
+  * [miniRSA]()
+  * [The Numbers]()
+  * [caesar]()
+  * [13]()
+  * [rsa-pop-quiz]()
+  * [Easy1]()
+  * [Mr-Worldwide]()
+  * [waves over lambda]()
+  * [Flags]()
+  * [Tapping]()
+  * [la cifra de]()
+  * [b00tl3gRSA3]()
+  * [AES-ABC]()
+  * [john_pollard]()
+  * [b00tl3gRSA2]()
 </details>
