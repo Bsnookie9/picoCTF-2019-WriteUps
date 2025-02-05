@@ -72,7 +72,7 @@ Here are the write-ups for the challenges I completed
 
   * [dont-use-client-side](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Web%20Exploitation/dont-use-client-side)
   * [logon](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Web%20Exploitation/logon)
-  * [Insp3ct0r]()
+  * [Insp3ct0r](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Web%20Exploitation/Insp3ct0r)
   * [where are the robots]()
   * [Irish-Name-Repo 1]()
   * [Client-side-again]()
