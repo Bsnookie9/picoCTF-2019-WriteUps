@@ -75,7 +75,7 @@ Here are the write-ups for the challenges I completed
   * [Insp3ct0r](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Web%20Exploitation/Insp3ct0r)
   * [where are the robots](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Web%20Exploitation/where%20are%20the%20robots)
   * [Irish-Name-Repo 1]()
-  * [Client-side-again]()
+  * [Client-side-again](https://github.com/Bsnookie9/picoCTF-2019-WriteUps/tree/main/Web%20Exploitation/Client-side-again)
   * [Irish-Name-Repo 2]()
   * [JaWT Scratchpad]()
   * [picobrowser]()
