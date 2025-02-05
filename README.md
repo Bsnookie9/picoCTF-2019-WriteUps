@@ -66,3 +66,20 @@ Here are the write-ups for the challenges I completed
   * [investigation_encoded_1]()
   * [investigation_encoded_2]()
 </details>
+
+<details>
+  <summary>Web Exploitation</summary>
+
+  * [dont-use-client-side]()
+  * [logon]()
+  * [Insp3ct0r]()
+  * [where are the robots]()
+  * [Irish-Name-Repo 1]()
+  * [Client-side-again]()
+  * [Irish-Name-Repo 2]()
+  * [JaWT Scratchpad]()
+  * [picobrowser]()
+  * [Irish-Name-Repo 3]()
+  * [Java Script Kiddie 2]()
+  * [Java Script Kiddie]()
+</details>
