@@ -12,7 +12,7 @@ Submit your answer in our flag format. For example, if your answer was 'hello', 
 Use a [HEX to ASCII](https://www.rapidtables.com/convert/number/hex-to-ascii.html) converter to solve this problem. 
 
 > [!IMPORTANT]
-> Use ASCII/UTF-8 instead of just ASCII
+> Use ASCII/UTF-8
 
 Enter 0x70 into the hex and you get 'p' as the string:
 
